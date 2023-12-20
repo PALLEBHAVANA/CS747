@@ -1,0 +1,8 @@
+UCB
+https://www.geeksforgeeks.org/upper-confidence-bound-algorithm-in-reinforcement-learning/
+https://bochang.me/blog/posts/bandits/
+https://kfoofw.github.io/bandit-theory-ucb-analysis/
+Thompson Sampling
+https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
+Graphs Plotting
+https://learnpython.com/blog/average-in-matplotlib/
