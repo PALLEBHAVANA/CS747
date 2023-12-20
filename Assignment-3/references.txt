@@ -1,0 +1,4 @@
+https://dev.to/henshmi/create-an-ai-opponent-for-your-game-using-a-genetic-algorithm-p33
+https://www.cs.huji.ac.il/w~ai/projects/old/Billiard.pdf
+https://cs229.stanford.edu/proj2018/report/249.pdf
+
